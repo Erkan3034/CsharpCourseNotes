@@ -1,0 +1,7 @@
+C:\Users\ERKAN TURGUT\OneDrive\Masaüstü\CsharpCourseDocs\CsharpCourse\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\ERKAN TURGUT\OneDrive\Masaüstü\CsharpCourseDocs\CsharpCourse\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\ERKAN TURGUT\OneDrive\Masaüstü\CsharpCourseDocs\CsharpCourse\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\ERKAN TURGUT\OneDrive\Masaüstü\CsharpCourseDocs\CsharpCourse\ConsoleApp1\obj\Debug\Interfaces.csproj.AssemblyReference.cache
+C:\Users\ERKAN TURGUT\OneDrive\Masaüstü\CsharpCourseDocs\CsharpCourse\ConsoleApp1\obj\Debug\Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\ERKAN TURGUT\OneDrive\Masaüstü\CsharpCourseDocs\CsharpCourse\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\ERKAN TURGUT\OneDrive\Masaüstü\CsharpCourseDocs\CsharpCourse\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

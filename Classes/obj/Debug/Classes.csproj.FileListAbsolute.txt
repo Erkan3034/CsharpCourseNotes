@@ -1,0 +1,7 @@
+C:\Users\ERKAN TURGUT\OneDrive\Masaüstü\CsharpCourseDocs\CsharpCourse\Classes\bin\Debug\Classes.exe.config
+C:\Users\ERKAN TURGUT\OneDrive\Masaüstü\CsharpCourseDocs\CsharpCourse\Classes\bin\Debug\Classes.exe
+C:\Users\ERKAN TURGUT\OneDrive\Masaüstü\CsharpCourseDocs\CsharpCourse\Classes\bin\Debug\Classes.pdb
+C:\Users\ERKAN TURGUT\OneDrive\Masaüstü\CsharpCourseDocs\CsharpCourse\Classes\obj\Debug\Classes.csproj.AssemblyReference.cache
+C:\Users\ERKAN TURGUT\OneDrive\Masaüstü\CsharpCourseDocs\CsharpCourse\Classes\obj\Debug\Classes.csproj.CoreCompileInputs.cache
+C:\Users\ERKAN TURGUT\OneDrive\Masaüstü\CsharpCourseDocs\CsharpCourse\Classes\obj\Debug\Classes.exe
+C:\Users\ERKAN TURGUT\OneDrive\Masaüstü\CsharpCourseDocs\CsharpCourse\Classes\obj\Debug\Classes.pdb
